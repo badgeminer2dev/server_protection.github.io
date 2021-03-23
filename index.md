@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/badgeminer2dev/server_protection/main/no%201.png">
+<img src="https://github.com/badgeminer2dev/server_protection.github.io/blob/main/invite_icon.png?raw=true">
